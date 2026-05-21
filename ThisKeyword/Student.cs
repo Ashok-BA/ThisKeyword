@@ -28,7 +28,7 @@ namespace ThisKeyword
     {
         static void Main(string[] args)
         {
-            student std = new student(8,"ashok");
+            student std = new student(8, "ashok");
             std.displaydetails();
         }
     }
